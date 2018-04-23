@@ -11,9 +11,9 @@ namespace SimpleMultiparty
     /// </summary>
     public partial class MainWindow : Window
     {
-        public const string API_KEY = "";
-        public const string SESSION_ID = "";
-        public const string TOKEN = "";
+        public const string API_KEY = "100";
+        public const string SESSION_ID = "1_MX4xMDB-fjE1MjQ1MDgxNDkzNTZ-WkZldjNMdkprVno0aW1uU3JxQlovNzlJfn4";
+        public const string TOKEN = "T1==cGFydG5lcl9pZD0xMDAmc2RrX3ZlcnNpb249dGJwaHAtdjAuOTEuMjAxMS0wNy0wNSZzaWc9YzU0MDBhYmI2MTAxNzI4MTg1ODUyNTY0NTVjMDQxMTQyZDAxZDQwMjpzZXNzaW9uX2lkPTFfTVg0eE1EQi1makUxTWpRMU1EZ3hORGt6TlRaLVdrWmxkak5NZGtwclZubzBhVzF1VTNKeFFsb3ZOemxKZm40JmNyZWF0ZV90aW1lPTE1MjQ1MDgxNDkmcm9sZT1tb2RlcmF0b3Imbm9uY2U9MTUyNDUwODE0OS40MDUyMTkzNjY1Mjk5JmV4cGlyZV90aW1lPTE1MjcxMDAxNDk=";
 
         VideoCapturer Capturer;
         Session Session;
