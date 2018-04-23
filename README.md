@@ -56,3 +56,8 @@ video renderer.
 
 This app shows how to publish a screen-sharing stream to a session. This implements a custom video
 capturer to capturer to capture the screen as the video source for an OpenTok publisher.
+
+### FrameMetadata
+
+This app shows how to add metadata to a published stream (and how to retrieve the metadata
+when subscribing to the stream).
